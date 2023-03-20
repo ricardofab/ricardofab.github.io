@@ -1,0 +1,148 @@
+.topheader{
+   background-color: rgb(17, 67, 8);
+   height: 80px;
+   position: fixed;
+   width: 100%;
+   left: 0;
+   top: 0;
+
+}
+
+
+
+.topnav {
+    display: flex; 
+    justify-content: space-between;
+    padding: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+
+
+}
+body {
+    padding-top: 77px;
+    margin: 0;
+}
+section[id] {
+    scroll-margin-top: 80px;
+}
+.nom{
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+
+.foto {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 600;
+    color: aliceblue;
+    
+}
+
+
+
+
+
+.foto img {
+    border-radius: 50%;
+}
+ 
+a {
+    text-decoration: none;
+    
+} 
+.menu {
+    display: flex;
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+.menu li {
+    padding: 0 15px ;
+}
+
+.menu a {
+    color: azure;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 60px;
+    text-transform: uppercase;
+
+}
+
+.contenidos {
+    margin-left: 40px;
+
+}
+
+
+
+section.datos     {
+    padding: 5em 0;
+    
+    height: 100vh;
+    background-color:rgb(225, 235, 235);
+}
+@import url('https://fonts.googleapis.com/css2? family=Amiko:wght@600&family=Montserrat&family=Sonsie+One&display=swap');
+
+.titulo {
+
+
+font-family: 'Amiko', sans-serif;
+margin-left: 40px;
+
+
+}
+
+section.formación    {
+    padding: 5em 0;
+    height: 100vh;
+    background-color:rgb(225, 235, 235);
+}
+
+section.experiencia    {
+    padding: 5em 0;
+    height: 100vh;
+    background-color:rgb(225, 235, 235);
+}
+
+section.contacto   {
+    padding: 5em 0;
+    
+    
+    height: 100vh;
+    
+    
+    
+    
+    
+}
+
+
+.fa-square-facebook  {
+   font-size: 35px;
+   margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
